@@ -1,9 +1,8 @@
-
 # Singapore Resale Flat Prices Prediction
 
-# Developed by Riyas M
+## Developed by Riyas M
 
-# Live app:
+## Live app:
 
 
 
@@ -66,12 +65,12 @@ Evaluated performance metrics to choose the best model for predicting resale pri
 
 Selected the DecisionTree Regressor based on its superior performance in terms of R-squared and Mean Squared Error metrics.
 
-# Model Deployment
+## Model Deployment
 
-# Model Serialization:
+## Model Serialization:
 Saved the trained DecisionTree Regressor model using pickle for later use in the application.
 
-# Dashboard Development:
+## Dashboard Development:
 Built an interactive dashboard using Streamlit to allow users to input relevant features and get predictions on flat resale prices.
 
 # Outcome:
