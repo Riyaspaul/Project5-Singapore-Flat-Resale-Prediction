@@ -73,7 +73,7 @@ Saved the trained DecisionTree Regressor model using pickle for later use in the
 ## Dashboard Development:
 Built an interactive dashboard using Streamlit to allow users to input relevant features and get predictions on flat resale prices.
 
-# Outcome:
+## Outcome:
 Deployed the application on Render for easy access and smooth performance.
 
 
