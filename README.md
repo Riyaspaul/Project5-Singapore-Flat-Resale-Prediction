@@ -4,6 +4,7 @@
 
 ## Live app:
 
+https://project5-singapore-flat-resale-prediction-cd6bepyuryyqhmmzys4a.streamlit.app/
 
 
 ## Introduction
@@ -74,7 +75,7 @@ Saved the trained DecisionTree Regressor model using pickle for later use in the
 Built an interactive dashboard using Streamlit to allow users to input relevant features and get predictions on flat resale prices.
 
 ## Outcome:
-Deployed the application on Render for easy access and smooth performance.
+Deployed the application on streamlit cloud for easy access and smooth performance.
 
 
 
